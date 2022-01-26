@@ -1,0 +1,13 @@
+{
+    "Simulator Target Bundle": "{app_bundle_id}",
+    "aps": {
+        "alert": {
+            "body": "{message}",
+            "title": "{title}"
+        },
+        "mutable-content": 1,
+        "content-available" : 1,
+        "badge" : 1,
+    },
+    "{key}": "{value}",
+} 
